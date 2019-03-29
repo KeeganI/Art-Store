@@ -1,0 +1,124 @@
+.content { 
+	width: 900px;
+	margin: auto;
+}
+.bottomcontent{
+	width: 900px;
+	margin: auto;
+	background-color: #222222;
+	text-align: center;
+	padding: 5px;
+	color: #999999;
+	height: 40px;
+}
+ul.topList {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-align: center;
+  list-style-type: none;
+  overflow: hidden;
+  background-color: #222222;
+  width: 860px;
+}
+ul.middleList {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  list-style-type: none;
+  overflow: hidden;
+  width: 860px;
+  background-color: #f8f8f8;
+}
+li.blah {
+  float: right;
+  display: inline-block;
+  color: #999999;
+  text-align: center;
+  padding: 10px;
+  text-decoration: none;
+}
+li.blah2 {
+  float: left;
+  display: inline-block;
+  color: #777777;
+  text-align: left;
+  margin: 10px;
+  text-decoration: none;
+  font-size:16px
+}
+li.blah:hover {
+  background-color: #111111;
+}
+li.blah2:hover {
+  background-color: #111111;
+}
+body {
+   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+   font-size: 14px;
+   line-height: 1.428571429;
+   color: #333333;
+   background-image: url(../images/stucco/stucco.png);
+   background-repeat: repeat;
+}
+
+li{
+   list-style-type: none;
+}
+
+h1 { 
+   font-size: 4em;
+   font-weight: bold;
+}
+
+main {
+   width: 880px;
+   margin-left: auto ;
+   margin-right: auto ;
+   background-color: #ffffff;
+   margin-top: 1em;
+   padding: 10px;
+   border: solid 1pt #e7e7e7;
+}
+
+h2 { 
+   font-size: 1.75em;
+}
+h3 { 
+   font-size: 1.25em;
+   border-bottom: solid 1pt #e7e7e7;
+   margin-top: 1em;
+   margin-bottom: 0.75em;
+}
+
+.favorites {
+    border: solid 1pt #e7e7e7;
+   margin-top: 1em;
+   padding: 10px;    
+ }
+main .leftsection {
+	width: 300px;
+	float:left;
+}
+.extra{
+	margin-top:20px;
+}
+main  .rightsection{
+	margin-left: 400px;
+}
+
+#buttons {
+	background-color: #4CAF50;
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	 text-align: center;
+	 text-decoration: none;
+	display: inline-block;
+	 font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+}
+.removeLinkStyle {   
+   border: solid 1pt #e7e7e7;   
+   margin-top: 1em;   
+   padding: 10px;   
+   background-color: #D8D8D8; 
+}
+

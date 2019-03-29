@@ -1,0 +1,155 @@
+.content { 
+	width: 900px;
+	margin: auto;
+}
+.bottomcontent{
+	width: 900px;
+	margin: auto;
+	background-color: #222222;
+	text-align: center;
+	padding: 5px;
+	color: #999999;
+	height: 40px;
+}
+.content2 {
+	width: 900px;
+	margin: auto;
+	background-color: white;
+}
+.around{
+	width: 570px;
+	height: 70px;
+	border: solid gray 1px;
+	display: inline-block;
+	vertical-align: middle;
+}
+.smallaround{
+	width: 200px;
+	height: 230px;
+	border: solid gray 1px;
+	display: inline-block;
+	vertical-align: middle;
+	text-align: center;
+	
+}
+.info{
+	width: 580px;
+	display: inline-block;
+	vertical-align: middle;
+	margin: auto;
+	
+}
+.firstimg{
+	float: left;
+	margin: 0 16px 16px 0;
+}
+.secondimg{
+	margin-top: 10px;
+}
+.price{
+color: red;
+font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.button1{
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: blue;
+	font-weight: bold;
+	text-align: center;
+	font-size: 16px;
+	margin: 0px 40px;
+	padding: 10px 20px;
+	width: 200px;
+	background-color: #f8f8f8
+
+}
+.button2{
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: blue;
+	font-weight: bold;
+	text-align: center;
+	font-size: 16px;
+	margin: 0px 20px;
+	padding: 8px 20px;
+	background-color: #f8f8f8
+
+}
+.buttonEnd{
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	text-align: center;
+	padding: 5px 15px;
+	margin: 2px 5px;
+	float: left;
+	border-radius: 8px;
+	background-color: #f8f8f8
+}
+
+body{
+	background-image: url(stucco.png);
+}
+
+p {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+}
+h1 {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 60px;
+    margin: 0px;
+	display: inline-block;
+}
+h2{
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+html{
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+h3{
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	margin-bottom: 0;
+	
+}
+ul.topList {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-align: center;
+  list-style-type: none;
+  overflow: hidden;
+  background-color: #222222;
+  width: 860px;
+}
+ul.middleList {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  list-style-type: none;
+  overflow: hidden;
+  width: 860px;
+  background-color: #f8f8f8;
+}
+
+
+li a {
+  float: right;
+  display: inline-block;
+  color: #999999;
+  text-align: center;
+  padding: 10px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111111;
+}
+li b:hover {
+  background-color: #111111;
+}
+li b {
+  float: left;
+  display: inline-block;
+  color: #777777;
+  text-align: left;
+  margin: 10px;
+  text-decoration: none;
+  font-size:16px
+}
+hr {
+	margin-right: 10px;
+	margin-top: 0px;
+}
